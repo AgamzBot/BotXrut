@@ -25,7 +25,7 @@ exports.gameMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
-`}
+
 exports.funMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
     return `*「 FUN MENU 」*
 *Username :* ${pushname}
