@@ -23,8 +23,7 @@ exports.gameMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}suit
 き⃟🌊. ${prefix}math
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -47,8 +46,7 @@ exports.funMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}kapankah _teks_
 き⃟🌊. ${prefix}rate
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -74,8 +72,7 @@ exports.otherMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}img2url _reply image_
 き⃟🌊. ${prefix}ytsearch _query_
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -103,8 +100,7 @@ exports.stickerMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}tovideo
 き⃟🌊. ${prefix}toimg
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -129,8 +125,7 @@ exports.ownerMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}premium add _@tag|nomor_
 き⃟🌊. ${prefix}premium del _@tag|nomor_
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -168,8 +163,7 @@ exports.groupMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}hidetag _teks_
 き⃟🌊. ${prefix}linkgc
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -193,13 +187,12 @@ exports.downloadMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}tiktokaudio
 き⃟🌊. ${prefix}mediafire
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
 exports.rulesBot = (prefix) => {
-    return `*「 RULES XRUTZBOT 」*
+    return `*「 RULES AGAMZBOT 」*
 *Username :* ${pushname}
 
 
@@ -238,13 +231,13 @@ KELEBIHAN BOTZ
 LIST HARGA SEWA BOTZ
 ▢ PERHARI 2K
 ▢ PERMINGGU 5K
-▢ PERBULAN 15K
-▢ PERMANEN 40K
+▢ PERBULAN 10K
+▢ PERMANEN 15K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/6282127644092 
 
-YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+YG MAU JOIN GRUB BOT
+https://chat.whatsapp.com/JzBGYQz04we9371guBkAGM`
 }
 exports.infoMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 return `*「 INFO MENU 」*
@@ -272,8 +265,7 @@ return `*「 INFO MENU 」*
 き⃟🌊. ${prefix}setpp _reply image_
 き⃟🌊. ${prefix}bugreport _keluhan_
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 } 
@@ -290,8 +282,7 @@ return `*「 ISLAM MENU 」*
 き⃟🌊. ${prefix}alquranaudio
 き⃟🌊. ${prefix}listsurah
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊??𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊??𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -310,8 +301,7 @@ return `*「 SERTI MENU 」*
 き⃟🌊. ${prefix}goodboy
 き⃟🌊. ${prefix}goodgirl
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -330,8 +320,7 @@ return`*「 CERITA MENU 」*
 き⃟🌊. ${prefix}quotesanime
 き⃟🌊. ${prefix}quotes
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -355,8 +344,7 @@ return`*「 MAKER MENU 」*
 き⃟🌊. ${prefix}spiderman
 き⃟🌊. ${prefix}express
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -377,6 +365,5 @@ return`*「 TOOLS MENU 」*
 き⃟🌊. ${prefix}liststik
 き⃟🌊. ${prefix}getstik
    
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 _*Agamz*_ 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
 *Ketik ${prefix}allmenu biar gak ribet xixi*`}
